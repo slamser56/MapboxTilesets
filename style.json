@@ -9,6 +9,13 @@
   },
   "layers": [
     {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#E8E8E8"
+      }
+    },
+    {
       "id": "admin",
       "source": "mapbox-streets",
       "source-layer": "admin",
